@@ -1,4 +1,4 @@
-# 🚀 Space Missions Analytics Dashboard
+# Space Missions Analytics Dashboard
 
 # About This Project
 
