@@ -11,6 +11,15 @@ It provides insights into:
 - Rocket performance by status (Active/Inactive)
 
 This project demonstrates **advanced DAX calculations, KPI design, and interactive dashboards**, simulating real-world aerospace decision-making for investment and risk management.
+
+## How This Helps Stakeholders
+- Quickly identifies **best-performing companies** for investment  
+- Highlights **risk areas and costly failures**  
+- Provides **cost-efficiency insights** to guide future funding  
+- Supports **data-driven decision-making** for international space projects
+
+<img width="1412" height="794" alt="image" src="https://github.com/user-attachments/assets/c6a71a5a-0393-46a6-a91b-8070bd5a20ea" />
+  
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
@@ -142,8 +151,3 @@ The dataset consists of fictional space mission records with the following field
 
 ---
 
-## How This Helps Stakeholders
-- Quickly identifies **best-performing companies** for investment  
-- Highlights **risk areas and costly failures**  
-- Provides **cost-efficiency insights** to guide future funding  
-- Supports **data-driven decision-making** for international space projects  
